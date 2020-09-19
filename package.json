@@ -1,0 +1,27 @@
+{
+  "name": "words-binary",
+  "version": "1.0.0",
+  "description": "a simple module that transforms words / numbers to binary numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToledoSDL/words-binary.git"
+  },
+  "keywords": [
+    "Words",
+    "binary",
+    "binary",
+    "to",
+    "word",
+    "numbers"
+  ],
+  "author": "ToledoSDL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ToledoSDL/words-binary/issues"
+  },
+  "homepage": "https://github.com/ToledoSDL/words-binary#readme"
+}
