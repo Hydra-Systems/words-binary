@@ -1,5 +1,4 @@
 module.exports = function (str) {
-  // Normaliza a string
   let normalized_str = str
   .normalize('NFD')
   .replace(/[\u0300-\u036f]/g, '')
