@@ -23,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/ToledoSDL/words-binary/issues"
   },
-  "homepage": "https://github.com/ToledoSDL/words-binary#readme"
+  "scripts": {
+    "test": "jest"
+  },
+  "homepage": "https://github.com/ToledoSDL/words-binary#readme",
+  "dependencies": {
+    "jest": "^26.4.2"
+  }
 }
