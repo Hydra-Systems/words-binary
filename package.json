@@ -1,6 +1,6 @@
 {
   "name": "words-binary",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "a simple module that transforms words / numbers to binary numbers",
   "main": "index.js",
   "repository": {
@@ -24,7 +24,11 @@
     "test": "jest"
   },
   "homepage": "https://github.com/ToledoSDL/words-binary#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "jest": "^26.4.2"
+  },
+  "directories": {
+    "test": "tests"
   }
 }
