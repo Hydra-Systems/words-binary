@@ -26,7 +26,7 @@
   "homepage": "https://github.com/ToledoSDL/words-binary#readme",
   "dependencies": {},
   "devDependencies": {
-    "jest": "^26.4.2"
+    "jest": "^28.1.1"
   },
   "directories": {
     "test": "tests"
